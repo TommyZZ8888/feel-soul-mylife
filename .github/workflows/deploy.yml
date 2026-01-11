@@ -35,7 +35,7 @@ jobs:
           extended: true
       
       - name: Build Hugo site
-        run: hugo --minify --baseURL "https://tommyzz8888.github.io/feel-soul-my-life/"
+        run: hugo --minify --baseURL "https://tommyzz8888.github.io/feel-soul-mylife/"
       
       - name: Setup Pages
         uses: actions/configure-pages@v5
